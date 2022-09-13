@@ -1,0 +1,14 @@
+.one > td {
+  background-color: aqua;
+  font-size: 40px;
+  margin-right: 100px;
+}
+td {
+  text-align: center;
+  table-layout: fixed;
+  padding: 20px 20px 20px 20px;
+}
+.table {
+  display: flex;
+  justify-content: center;
+}
